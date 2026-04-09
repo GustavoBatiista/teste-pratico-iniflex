@@ -55,18 +55,6 @@ mvn test
 
 ## Estrutura do projeto
 
-br.com.iniflex
- ├── model
- │     ├── Pessoa
- │     └── Funcionario
- │
- ├── service
- │     └── FuncionarioService
- │
- ├── util
- │     └── Formatadores
- │
- └── Principal
 
 - model → entidades do domínio
 - service → regras de negócio e operações sobre a lista de funcionários
